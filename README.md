@@ -7,7 +7,7 @@ Raccoon lover
 I like to eat kiwis and program while listening to music
 
 * 🌍  I'm based in Spain
-* 🧠  I'm learning how to find a gf
+* 🧠  I'm learning D.A.W
 * ⚡  I secretly train pigeons
 
 ### Skills
