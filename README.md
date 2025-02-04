@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Raccoon lover
 -------------
 
-I like to eat kiwis and program while listening to music
+I like to program while listening to music
 
 * 🌍  I'm based in Spain
 * 🧠  I'm learning D.A.W
-* ⚡  I secretly train pigeons
+* ⚡  Im a Frontend web developer
 
 ### Skills
 
